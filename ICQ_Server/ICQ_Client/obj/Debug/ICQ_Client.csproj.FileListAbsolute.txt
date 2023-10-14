@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\bin\Debug\ICQ_Client.exe.config
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\bin\Debug\ICQ_Client.exe
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\bin\Debug\ICQ_Client.pdb
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\obj\Debug\ICQ_Client.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\obj\Debug\ICQ_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\obj\Debug\ICQ_Client.exe
+C:\Users\user\source\repos\ICQ_Server\ICQ_Client\obj\Debug\ICQ_Client.pdb
